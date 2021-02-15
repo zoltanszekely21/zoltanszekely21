@@ -44,4 +44,6 @@ Continuously learning and developing.
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zoltanszekely21&show_icons=true)  ![Profile views](https://gpvc.arturio.dev/zoltanszekely21)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zoltanszekely21&theme=dark&show_icons=true)  ![Profile views](https://gpvc.arturio.dev/zoltanszekely21)
+
+
