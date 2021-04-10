@@ -30,7 +30,7 @@ Continuously learning and developing.
 
 
 
-🔭 I’m currently working on various projects. 
+🔭 I’m currently working on various projects and my BSc thesis. 
 
 🌱 I’m currently learning Python and PyTorch. 
 
@@ -38,8 +38,7 @@ Continuously learning and developing.
 
 📫 How to reach me: zoltan.szekely21@gmail.com
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='35'>](https://github.com/zoltanszekely21)           [<img src='https://image.flaticon.com/icons/png/512/174/174857.png' alt='linkedin' height='35'>](https://www.linkedin.com/in/zoltan-ioan-szekely-423b25a5/)          [<img src='https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_gmail-512.png' height='35'>](mailto:zoltan.szekely21@gmail.com)
+[<img src='https://image.flaticon.com/icons/png/512/174/174857.png' alt='linkedin' height='35'>](https://www.linkedin.com/in/zoltan-ioan-szekely-423b25a5/)          [<img src='https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_gmail-512.png' height='35'>](mailto:zoltan.szekely21@gmail.com)
 
 
 
