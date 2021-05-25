@@ -12,7 +12,6 @@
 
 [<img src='https://image.flaticon.com/icons/png/512/174/174857.png' alt='linkedin' height='35'>](https://www.linkedin.com/in/zoltan-ioan-szekely/)          [<img src='https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_gmail-512.png' height='35'>](mailto:zoltan.szekely21@gmail.com)
 
-<br>
 
 ### 🔨 Languages and Tools:
 
@@ -44,10 +43,13 @@
 
 <a href="https://www.eclipse.org/" target="_blank"> <img align="left" src="/assets/eclipse.svg" alt="Eclipse" height="42px"/> </a> 
 
-<a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img align="left" src="/assets/PyCharm.svg" alt="PyCharm" height="42px"/> </a> 
+<a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img align="left" src="/assets/PyCharm.svg" alt="PyCharm" height="42px"/> </a> <br />
+
+
 
 <br>
 
+<br>
 
 
 
