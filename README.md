@@ -14,31 +14,31 @@
 
 ### 🔨 Languages and Tools:
 
-<a href="https://www.python.org" target="_blank"> <img align="left" src="/assets/python.svg" alt="Python" height="46px"/> </a> 
+<a href="https://www.python.org" target="_blank"><img align="left" src="/assets/python.svg" alt="Python" height="46px"/> </a> 
 
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="46px" src="/assets/java.svg"> </a>
 
-<a href="https://pytorch.org/" target="_blank"> <img align="left" src="/assets/pytorch.svg" alt="PyTorch" height="42px"/> </a> 
+<a href="https://pytorch.org/" target="_blank"><img align="left" src="/assets/pytorch.svg" alt="PyTorch" height="42px"/> </a> 
 
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="/assets/nodejs.svg"> </a>
 
-<a href="https://www.postgresql.org/" target="_blank"> <img align="left" src="/assets/Postgresql.svg" alt="PostgreSQL" height="42px"/> </a> 
+<a href="https://www.postgresql.org/" target="_blank"><img align="left" src="/assets/Postgresql.svg" alt="PostgreSQL" height="42px"/> </a> 
 
-<a href="https://git-scm.com/" target="_blank"> <img align="left" src="/assets/git-scm.svg" alt="Git" height="42px"/> </a> 
+<a href="https://git-scm.com/" target="_blank"><img align="left" src="/assets/git-scm.svg" alt="Git" height="42px"/> </a> 
 
-<a href="https://code.visualstudio.com/" target="_blank"> <img align="left" src="/assets/vscode.svg" alt="Visual Studio Code" height="40px"/> </a> 
+<a href="https://code.visualstudio.com/" target="_blank"><img align="left" src="/assets/vscode.svg" alt="Visual Studio Code" height="40px"/> </a> 
 
-<a href="https://www.microsoft.com/en-us/windows-server" target="_blank"> <img align="left" src="/assets/windows.svg" alt="Windows" height="42px"/> </a> 
+<a href="https://www.microsoft.com/en-us/windows-server" target="_blank"><img align="left" src="/assets/windows.svg" alt="Windows" height="42px"/> </a> 
 
-<a href="https://www.linux.org/" target="_blank"> <img align="left" src="/assets/linux.svg" alt="Linux" height="42px"/> </a>
+<a href="https://www.linux.org/" target="_blank"><img align="left" src="/assets/linux.svg" alt="Linux" height="42px"/> </a>
 
-<a href="https://www.docker.com/" target="_blank"> <img align="left" src="/assets/docker.svg" alt="Docker" height="40px"/> </a>
+<a href="https://www.docker.com/" target="_blank"><img align="left" src="/assets/docker.svg" alt="Docker" height="40px"/> </a>
 
-<a href="https://kubernetes.io/" target="_blank"> <img align="left" alt="Kubernetes" height ="42px"  src="/assets/k8.svg"> </a>
+<a href="https://kubernetes.io/" target="_blank"><img align="left" alt="Kubernetes" height ="42px"  src="/assets/k8.svg"> </a>
 
-<a href="https://azure.microsoft.com/en-us/" target="_blank"> <img align="left" src="/assets/azure.svg" alt="Microsoft Azure" height="45px"/> </a>
+<a href="https://azure.microsoft.com/en-us/" target="_blank"><img align="left" src="/assets/azure.svg" alt="Microsoft Azure" height="45px"/> </a>
 
-<a href="https://cloud.google.com/" target="_blank"> <img align="left" src="/assets/gcp.svg" alt="Google Cloud Platform" height="39px"/> </a>  <br/>
+<a href="https://cloud.google.com/" target="_blank"><img align="left" src="/assets/gcp.svg" alt="Google Cloud Platform" height="39px"/> </a>  <br/>
 
 
 
