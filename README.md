@@ -20,8 +20,6 @@
 
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="/assets/pytorch.svg" alt="PyTorch" height="42px"/> </a> 
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="/assets/javascript.svg"> </a>
-
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="/assets/nodejs.svg"> </a>
 
 <a href="https://www.postgresql.org/" target="_blank"> <img align="left" src="/assets/Postgresql.svg" alt="PostgreSQL" height="42px"/> </a> 
@@ -35,6 +33,8 @@
 <a href="https://www.linux.org/" target="_blank"> <img align="left" src="/assets/linux.svg" alt="Linux" height="42px"/> </a>
 
 <a href="https://www.docker.com/" target="_blank"> <img align="left" src="/assets/docker.svg" alt="Docker" height="40px"/> </a>
+
+<a href="https://kubernetes.io/" target="_blank"> <img align="left" alt="Kubernetes" height ="42px"  src="/assets/k8.svg"> </a>
 
 <a href="https://azure.microsoft.com/en-us/" target="_blank"> <img align="left" src="/assets/azure.svg" alt="Microsoft Azure" height="45px"/> </a>
 
