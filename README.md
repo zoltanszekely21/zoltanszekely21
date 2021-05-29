@@ -16,9 +16,9 @@
 
 <a href="https://www.python.org" target="_blank"><img align="left" src="/assets/python.svg" alt="Python" height="46px"/> </a> 
 
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="46px" src="/assets/java.svg"> </a>
+<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="/assets/java.png"> </a>
 
-<a href="https://pytorch.org/" target="_blank"><img align="left" src="/assets/pytorch.svg" alt="PyTorch" height="42px"/> </a> 
+<a href="https://pytorch.org/" target="_blank"><img align="left" src="/assets/pytorch.svg" alt="PyTorch" height="46px"/> </a> 
 
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="/assets/nodejs.svg"> </a>
 
@@ -30,11 +30,11 @@
 
 <a href="https://www.microsoft.com/en-us/windows-server" target="_blank"><img align="left" src="/assets/windows.svg" alt="Windows" height="42px"/> </a> 
 
-<a href="https://www.linux.org/" target="_blank"><img align="left" src="/assets/linux.svg" alt="Linux" height="42px"/> </a>
+<a href="https://www.linux.org/" target="_blank"><img align="left" src="/assets/linux.svg" alt="Linux" height="44px"/> </a>
 
 <a href="https://www.docker.com/" target="_blank"><img align="left" src="/assets/docker.svg" alt="Docker" height="40px"/> </a>
 
-<a href="https://kubernetes.io/" target="_blank"><img align="left" alt="Kubernetes" height ="38px"  src="/assets/k8.svg"> </a>
+<a href="https://kubernetes.io/" target="_blank"><img align="left" alt="Kubernetes" height ="39px"  src="/assets/k8.svg"> </a>
 
 <a href="https://azure.microsoft.com/en-us/" target="_blank"><img align="left" src="/assets/Azure2021.svg" alt="Microsoft Azure" height="38px"/> </a>
 
