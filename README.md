@@ -4,7 +4,7 @@
 
 ### 🧐 More About Me:
 
-- 🔭 I’m currently working on various projects and my BSc thesis. 
+- 🔭 I’m currently working on various projects. 
 - 🌱 I’m currently improving my Python and PyTorch skills. 
 - 👯 I’m looking to collaborate on interesting and meaningful projects.
 - 📝 Checkout my [resume](https://zoltanszekely21.github.io/ZoltanSzekelyCV/)
