@@ -1,5 +1,5 @@
 <h1 align="left" id="readme-title">:wave: Hello there! My name is Zoltan.</h1> 
-<h3 align="left">I am a CS graduate from Transilvania University of Brasov, Romania.</h3>
+<h3 align="left">I am an AI Master's student @ University Politehnica of Bucharest, Romania.</h3>
 <h3 align="left">Keen interest in Deep Learning, MLOps, Software Engineering & CySec.</h3>
 
 ### 🧐 More About Me:
