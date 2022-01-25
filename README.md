@@ -39,7 +39,18 @@
 
 <a href="https://cloud.google.com/" target="_blank"><img align="left" src="/assets/gcp.svg" alt="Google Cloud Platform" height="38px"/> </a>  <br/>
 
+<br>
 
+### 💻 Certifications:
+
+<a href="https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/" target="_blank"><img align="left" src="/assets/az-fund.png" alt="Azure" height="98px"/> </a> 
+<a href="https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/" target="_blank"><img align="left" src="/assets/ai-900.png" alt="Azure" height="98px"/> </a> 
+
+<br>
+
+<br>
+
+<br>
 
 <br>
 
