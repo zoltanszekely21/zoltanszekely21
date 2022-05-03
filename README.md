@@ -43,8 +43,8 @@
 
 ### 💻 Certifications:
 
-<a href="https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/" target="_blank"><img align="left" src="/assets/az-900.png" alt="Azure" height="98px"/> </a> 
-<a href="https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/" target="_blank"><img align="left" src="/assets/ai-900.png" alt="Azure" height="98px"/> </a> 
+<a href="https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/" target="_blank"><img align="left" src="/assets/az-900.png" alt="Azure" height="102px"/> </a> 
+<a href="https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/" target="_blank"><img align="left" src="/assets/ai-900.png" alt="Azure" height="102px"/> </a> 
 
 <br>
 
