@@ -57,6 +57,6 @@
 <br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zoltanszekely21&hide=java,html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 ![GitHub statistics](https://github-readme-stats.vercel.app/api?username=zoltanszekely21&theme=dark&show_icons=true)  
 <h1 align="left"><a href="https://github.com/MacroPower/MacroPower"><img src="https://gpvc.arturio.dev/zoltanszekely21" alt="page views" /></h1>
