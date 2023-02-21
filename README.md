@@ -1,7 +1,7 @@
 <h1 align="left" id="readme-title">:wave: Hello there! My name is Zoltan.</h1> 
 <h3 align="left">I am a DevOps Engineer, interested in Machine Learning, Finance & Software Engineering.</h3>
 
-### 🧐 More About Me:
+### 👨‍💻 More About Me:
 
 - 🔭 I’m currently working on various projects. 
 - 🌱 I’m currently improving my Python and PyTorch skills. 
