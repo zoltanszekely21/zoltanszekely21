@@ -59,4 +59,4 @@
 
 
 ![GitHub statistics](https://github-readme-stats.vercel.app/api?username=zoltanszekely21&theme=dark&show_icons=true)  
-<h1 align="left"><a href="https://github.com/MacroPower/MacroPower"><img src="https://gpvc.arturio.dev/zoltanszekely21" alt="page views" /></h1>
+
