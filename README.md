@@ -6,7 +6,6 @@
 - 🔭 I’m currently working on various projects. 
 - 🌱 I’m currently improving my Python and PyTorch skills. 
 - 👯 I’m looking to collaborate on interesting and meaningful projects.
-- 📝 Checkout my [resume](https://zoltanszekely21.github.io/ZoltanSzekelyCV/)
 - 👨🏻‍💻 Feel free to add me on [LinkedIn](https://www.linkedin.com/in/zoltan-ioan-szekely/)
 - 📫 Write to me at: zoltan.szekely21@gmail.com  
 
